@@ -1,7 +1,9 @@
-# 🛡️ Estratégia de Backup Local e Gestão de Ciclo de Vida (Retention)
+# 🛡️ # 🛡️ SysAdmin Lab 03: Backup Automation & Retention Policy
+
+Este repositório contém a solução prática do **Laboratório 03**, focada em automação de infraestrutura Linux.
 
 ## 📋 Descrição do Projeto
-Solução automatizada em Bash Script para backup incremental e compactado, implementando uma política de retenção de dados (Lifecycle Management) para otimização de armazenamento em servidores Linux.
+Este projeto faz parte do meu laboratório de administração de sistemas (Lab 03) e consiste em uma solução automatizada para backup e gestão de armazenamento. O script utiliza Bash para realizar sincronização incremental e compactação, garantindo a integridade dos dados e o uso eficiente do disco através de uma política de retenção automatizada.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Rsync**: Sincronização incremental inteligente.
